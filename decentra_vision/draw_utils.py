@@ -9,7 +9,7 @@ import os
 
 import cv2
 import numpy as np
-from naeural_client import BaseDecentrAIObject
+from ratio1 import BaseDecentrAIObject
 
 from . import constants as ct
 from . import geometry_methods as gmt
